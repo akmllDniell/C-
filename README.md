@@ -1,2 +1,2 @@
-# C++ porject
-this repository is show some of program that i created using C++ language. for example include with the money converter, student pass grade and so on
+# C++ project
+this repository is shown some of the programs that I created using the C++ language, for example, money converter, student pass grade, count vowel characters in one word, and more. this repository is used for my portfolio which shows my basic knowledge of C++ programming. it also can be a reference to another new C++ programming because I'm using a very simple and easy-to-understand command, also guide from the comment make it easier to understand. I try to gain my knowledge in C++. also I'll keep this repository as my diary or library for c++ programs, and try my best to keep updating and upload all and latest side programs I made related to C++ languages
