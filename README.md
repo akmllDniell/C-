@@ -11,4 +11,7 @@ count project in file countsymbol.cpp have two function. user can choice either 
 <img src="https://user-images.githubusercontent.com/108931011/187366046-53630991-73a1-4e53-aacb-231eadba29f4.png" alt="count2" style="width: 40%;">
 
 <br><br>
-<b>2. </b>
+<b>2. money converter</b>
+<br>
+the project is about convert the money into other country money. this simple program just provide three country money which is United State Dollar(USD), RInggit Malaysian(RM) and Thai Baht(Baht). user can choice and insert the ammount. then the program will display other country money ammount. the currency is based on real time. i'll try update the program frequently.
+
