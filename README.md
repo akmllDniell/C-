@@ -3,6 +3,12 @@ this repository is shown some of the programs that I created using the C++ langu
 
 # PROJECT DESCRIPTION
 
-<b>1.Count project<b>
+<b>1.Count project</b>
+<br>
 count project in file countsymbol.cpp have two function. user can choice either wnt to use the first program or second program, the first program is count how many symbol inserted by user, user can set the symbol manually or if they don't set it the program will automatically using $ symbol. The program will end if user insert the @ symbol. Second program is count how many vowel and consonant in the one word. user must confirm that the word must be only one word without any space if not the second word will not be count.
 
+<img src="https://user-images.githubusercontent.com/108931011/187363094-b83bbf62-19e0-43ec-b261-7a852e1ef739.png" alt="count2" style="width: 40%;">
+<img src="https://user-images.githubusercontent.com/108931011/187366046-53630991-73a1-4e53-aacb-231eadba29f4.png" alt="count2" style="width: 40%;">
+
+<br><br>
+<b>2. </b>
