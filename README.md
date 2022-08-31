@@ -15,3 +15,15 @@ count project in file countsymbol.cpp have two function. user can choice either 
 <br>
 the project is about convert the money into other country money. this simple program just provide three country money which is United State Dollar(USD), RInggit Malaysian(RM) and Thai Baht(Baht). user can choice and insert the ammount. then the program will display other country money ammount. the currency is based on real time. i'll try update the program frequently.
 
+![money convert](https://user-images.githubusercontent.com/108931011/187659043-91d05961-a1c6-4a0f-acc6-197f34e5cc13.png)
+![money convert 2](https://user-images.githubusercontent.com/108931011/187659034-ecc65063-03e5-49eb-a4ad-e4916d1ae4de.png)
+
+<br><br>
+<b>3. Rotan Tunggal Fabric</b>
+<br>
+This project is from my previous semester, we need to build one ordering system. Fabric shop is where user can by fabric based on how many weight they want, they also got a discount if they was a regular customer. then i provide some of service such as delivery and fabric collection. this prject i have used a function, so there have a comment where user can understand it very easy. have some time to try it :)
+![image](https://user-images.githubusercontent.com/108931011/187682889-a91e8c91-4704-4cab-b683-fb4ca12d88c6.png)
+![image](https://user-images.githubusercontent.com/108931011/187682978-b5ae7a8a-054b-40ff-b085-bd329795176b.png)
+![image](https://user-images.githubusercontent.com/108931011/187683114-1e6096c0-262d-4b33-b758-d79c53a6a666.png)
+
+
