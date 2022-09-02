@@ -30,9 +30,19 @@ This project is from my previous semester, we need to build one ordering system.
 <b>4. calculator</b>
 <br>
 This simple calculator is the first program i made with c++, with simple calculation and design. user can set how many time they want use this calculator, if the calculator reach the limit time it will ask user either to continue or not.
+![image](https://user-images.githubusercontent.com/108931011/188122270-03895848-f029-49e6-a2ec-e456ed3606f8.png)
+![image](https://user-images.githubusercontent.com/108931011/188122331-54080480-b404-44aa-af39-c012485e12cb.png)
+![image](https://user-images.githubusercontent.com/108931011/188122367-667a2628-c55d-4dc2-8658-53ff61c90749.png)
 
 
 <br><br>
 <b>5. Login System</b>
 <br>
 This system i created using input output file. i have made some functionlyty in this loign system. for example this system will detect either the acccoutn havr=e been created or not. then it also may detect the error like you enter wrong pass or wrong username, also it will detect if the account doesn't not exist. i'll try to improve this simple login system into big program/system
+<br>
+![image](https://user-images.githubusercontent.com/108931011/188112930-dcd2f1e4-5132-4f80-82c6-a95feaa5b0a0.png)
+<br>
+![image](https://user-images.githubusercontent.com/108931011/188120353-4a542dfb-6572-4080-b3d0-6b70d526e018.png)
+<br>
+![image](https://user-images.githubusercontent.com/108931011/188120429-f7d9ce28-c5a0-4d31-a300-0a3e125b70e4.png)
+
