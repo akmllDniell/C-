@@ -26,4 +26,13 @@ This project is from my previous semester, we need to build one ordering system.
 ![image](https://user-images.githubusercontent.com/108931011/187682978-b5ae7a8a-054b-40ff-b085-bd329795176b.png)
 ![image](https://user-images.githubusercontent.com/108931011/187683114-1e6096c0-262d-4b33-b758-d79c53a6a666.png)
 
+<br><br>
+<b>4. calculator</b>
+<br>
+This simple calculator is the first program i made with c++, with simple calculation and design. user can set how many time they want use this calculator, if the calculator reach the limit time it will ask user either to continue or not.
 
+
+<br><br>
+<b>5. Login System</b>
+<br>
+This system i created using input output file. i have made some functionlyty in this loign system. for example this system will detect either the acccoutn havr=e been created or not. then it also may detect the error like you enter wrong pass or wrong username, also it will detect if the account doesn't not exist. i'll try to improve this simple login system into big program/system
